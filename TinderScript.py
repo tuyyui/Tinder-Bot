@@ -14,7 +14,7 @@ class Tinderbot():
     def login(self):
         self.driver.get('https://tinder.com')
         facebookusername = ""
-        facebookpassword = ''
+        facebookpassword = ""
 
         sign_btn = self.driver.find_element_by_xpath(
             '//*[@id="content"]/div/div[1]/div/main/div[1]/div/div/header/div[1]/div[2]/div/button')
