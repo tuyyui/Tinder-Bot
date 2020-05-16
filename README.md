@@ -9,3 +9,7 @@ Also change facebookusername & facebookpassword to your Facebook username and pa
 Also Tinder has 4 different websites in it's automata so you might have to call the login function multiple times until it works.
 
 
+# Read-on
+
+Change the webdriver.Chrome function to point to your file or else it won't work!
+
